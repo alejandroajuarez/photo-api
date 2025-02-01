@@ -1,24 +1,8 @@
-# README
+# What I Had to Look Up
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Controller Format
+- jBuilder format
 
-Things you may want to cover:
+# Overall Feelings
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- I felt pretty confident about the steps that I needed to take to make this API. It was just the actual logic that went into how the controller and the RESTful actions were written that I had a problem finishing without looking up.
